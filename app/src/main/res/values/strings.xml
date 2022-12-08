@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="login">Iniciar</string>
+    <string name="str_male">Masculino</string>
+    <string name="str_famale">Femenino</string>
+    <string name="datos_personales">Datos Personales</string>
+    <string name="nombre_data">Nombre:</string>
+    <string name="name">Nombre</string>
+    <string name="emailD">Correo:</string>
+    <string name="email">Correo</string>
+    <string name="contactD">Contacto:</string>
+    <string name="contact">Contacto:</string>
+    <string name="genderD">Genero:</string>
+    <string name="gender">Genero</string>
+    <string name="birthdayD">Cumpleaños:</string>
+    <string name="birthDay">Cumpleaños</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="succes_acces">Acceso Corrrecto</string>
+    <string name="error_password_username">Error: Contraseña o usuarios incorrectos</string>
+</resources>
